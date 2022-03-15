@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.banner {
+    margin-bottom: 20px;
+    background-color: #4d00ff;
+    padding-bottom: 10px;
+    color: beige;
+}
+
+li  {
+    list-style: square;
+    
+}
